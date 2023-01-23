@@ -48,8 +48,6 @@ export default function Home() {
             </div>
             </div>
         </div>
-
-        <footer>In class Example #1</footer>
       </main>
     </>
   )
